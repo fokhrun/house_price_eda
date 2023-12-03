@@ -1,1 +1,8 @@
-# house_price_eda
+# House Price EDA
+
+## Developer Guide
+
+### Jupyter
+
+### Python Environment
+
